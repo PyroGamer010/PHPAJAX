@@ -1,7 +1,7 @@
 <?php
 $host = "localhost";
-$user = "87788";
-$password = "Srecko1509";
+$user = "";
+$password = "";
 $database = "ajax";
 
 $conn = mysqli_connect($host, $user, $password, $database);
